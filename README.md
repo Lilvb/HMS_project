@@ -39,4 +39,7 @@ A modern, full-featured **web and mobile-based Hotel Management System** designe
 - PostgreSQL / MySQL server
 - SMTP & SMS (e.g., SendGrid, Twilio) credentials
 
-### Setup (Example)
+### Team Members
+- Abanob Thabet Fathy ( 202320257 ).
+- Youssef Gerges Milad ( 202320018 ).
+- Samer Yousry Labeb ( 202320317 ).

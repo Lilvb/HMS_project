@@ -1,8 +1,10 @@
 # Hotel Management System (HMS)
 
+**Live Demo**: [https://lilvb.github.io/HMS_project/](https://lilvb.github.io/HMS_project/)
+
 A modern, full-featured **web-based Hotel Management System** designed to streamline hotel operations — from online bookings and check-ins to housekeeping, billing, and analytics.
 
- **Built for scalability, compliance, and usability** — aligned with GDPR, PCI-DSS, and Egyptian Data Protection Law.
+**Built for scalability, compliance, and usability** — aligned with GDPR, PCI-DSS, and Egyptian Data Protection Law.
 
 ---
 
@@ -16,7 +18,7 @@ A modern, full-featured **web-based Hotel Management System** designed to stream
 
 ---
 
-##  Tech Stack (Planned/Assumed)
+## Tech Stack (Planned/Assumed)
 
 > *Note: Stack not explicitly specified in SRS — inferred from requirements.*
 
@@ -29,6 +31,6 @@ A modern, full-featured **web-based Hotel Management System** designed to stream
 ---
 
 ### Team Members
-- Abanob Thabet Fathy ( 202320257 ).
-- Youssef Gerges Milad ( 202320018 ).
-- Samer Yousry Labeb ( 202320317 ).
+- Abanob Thabet Fathy (202320257)
+- Youssef Gerges Milad (202320018)
+- Samer Yousry Labeb (202320317)

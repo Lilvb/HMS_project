@@ -1,6 +1,6 @@
 # Hotel Management System (HMS)
 
-A modern, full-featured **web and mobile-based Hotel Management System** designed to streamline hotel operations — from online bookings and check-ins to housekeeping, billing, and analytics.
+A modern, full-featured **web-based Hotel Management System** designed to streamline hotel operations — from online bookings and check-ins to housekeeping, billing, and analytics.
 
  **Built for scalability, compliance, and usability** — aligned with GDPR, PCI-DSS, and Egyptian Data Protection Law.
 
@@ -10,7 +10,7 @@ A modern, full-featured **web and mobile-based Hotel Management System** designe
 
 -  **Guest Portal**: Real-time room search, booking, secure payment, and history
 -  **Front Desk**: Fast check-in/check-out, ID verification, folio management
--  **Housekeeping App**: Mobile task tracking, status updates, maintenance reporting
+-  **Housekeeping App**: task tracking, status updates, maintenance reporting
 -  **Management Dashboard**: Occupancy, ADR, RevPAR, revenue, and custom reports
 -  **Admin Console**: User/role management, room/rate configuration, audit logs
 
@@ -35,7 +35,6 @@ A modern, full-featured **web and mobile-based Hotel Management System** designe
 
 ### Prerequisites
 - Node.js ≥ 18.x / Python ≥ 3.9
-- Docker & Docker Compose
 - PostgreSQL / MySQL server
 - SMTP & SMS (e.g., SendGrid, Twilio) credentials
 
